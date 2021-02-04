@@ -121,6 +121,10 @@ p {
   align-items: center;
 }
 
+.footer-partner-name {
+  align-self: flex-start;
+}
+
 .page {
   position: relative;
   height: auto;
